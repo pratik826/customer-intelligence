@@ -6,7 +6,7 @@ The application helps businesses understand customer activity, compare spending 
 
 ## 🚀 Live Demo
 
-**Live Application:** [Open Customer Intelligence Dashboard](https://customer-intelligence.streamlit.app/)
+**Live Application:** [Open Customer Intelligence Dashboard](https://customer-intelligence-l6sfwnp7bu7idgk7ugfgua.streamlit.app/)
 
 > If your actual Streamlit URL is different, replace the link above with your deployed app URL.
 
